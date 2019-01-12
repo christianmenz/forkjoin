@@ -1,4 +1,4 @@
-package ch.christianmenz;
+package ch.christianmenz.fibonacci;
 
 import java.math.BigInteger;
 import java.util.concurrent.RecursiveTask;
